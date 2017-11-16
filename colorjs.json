@@ -1,4 +1,4 @@
-
+[
     {
       "color": "black",
       "category": "hue",
@@ -35,5 +35,5 @@
       "category": "hue",
       "type": "secondary",
       
-    },
-  
+    }
+]
