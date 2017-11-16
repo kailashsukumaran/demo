@@ -2,38 +2,38 @@
     {
       "color": "black",
       "category": "hue",
-      "type": "primary",
+      "type": "primary"
      
     },
     {
       "color": "white",
       "category": "value",
-      "type": "primary",
+      "type": "primary"
       
     },
     {
       "color": "red",
       "category": "hue",
-      "type": "primary",
+      "type": "primary"
      
       
     },
     {
       "color": "blue",
       "category": "hue",
-      "type": "primary",
+      "type": "primary"
       
     },
     {
       "color": "yellow",
       "category": "hue",
-      "type": "primary",
+      "type": "primary"
       
     },
     {
       "color": "green",
       "category": "hue",
-      "type": "secondary",
+      "type": "secondary"
       
     }
   ]
